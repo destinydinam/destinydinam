@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **React, Firebase**
 
-- 👯 I’m looking to collaborate on **open source**
+- 👯 I’m looking to collaborate on **real world projects**
 
-- 🤝 I’m looking for help with **designing**
+- 🤝 I’m looking for help with **improving my designing skills**
 
 - 👨‍💻 All of my projects are available at [https://github.com/destinydinam?tab=repositories](https://github.com/destinydinam?tab=repositories)
 
