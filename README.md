@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Destiny</h1>
 <h3 align="center">A passionate frontend developer :computer: from Ghana</h3>
 
-- 🔭 I’m currently working on **improving my react skills**
+- 🔭 I’m currently working on **improving my react skills by building a fully functional music player**
 
 - 🌱 I’m currently learning **React**
 
