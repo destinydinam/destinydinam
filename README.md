@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently working on **improving my react skills by building a fully functional music player**
 
-- 🌱 I’m currently learning **React**
-
 - 👯 I’m looking to collaborate on **real world projects**
 
-- 🤝 I’m looking for help with **improving my designing skills**
+- 🤝 I’m looking for help with **getting better and better at designing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/destinydinam?tab=repositories](https://github.com/destinydinam?tab=repositories)
 
