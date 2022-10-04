@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Destiny</h1>
-<h3 align="center">A passionate frontend developer :computer: from Ghana</h3>
+<h3 align="center">A passionate full-stack developer :computer: from Ghana</h3>
 
 
-- 👯 I’m looking to collaborate on **real world projects**
+- 👯 Enjoy coding expecially for the web
 
-- 🤝 I’m looking for help with **getting better and better at designing**
+- 🤝 Am at my best **when I have a design to follow**
 
 - 👨‍💻 All of my projects are available at [https://github.com/destinydinam?tab=repositories](https://github.com/destinydinam?tab=repositories)
 
-- 💬 Ask me about **react**
+- 💬 I love to talk **react and any other cool stuff on the web**
 
 - 📫 How to reach me **destinydinam1@gmail.com**
 
