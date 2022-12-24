@@ -4,7 +4,7 @@
 
 - 👯 Enjoy coding expecially for the web
 
-- 🤝 Am at my best **when I have a design to follow**
+- 🤝 Am at my best **when I have a good design to follow**
 
 - 👨‍💻 All of my projects are available at [https://github.com/destinydinam?tab=repositories](https://github.com/destinydinam?tab=repositories)
 
