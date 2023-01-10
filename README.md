@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack developer :computer: from Ghana</h3>
 
 
-- 👯 Enjoy coding expecially for the web
+- 👯 Enjoy programming expecially for the web
 
 - 🤝 Am at my best **when I have a good design to follow**
 
