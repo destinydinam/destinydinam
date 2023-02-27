@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Destiny</h1>
-<h3 align="center">A passionate full-stack developer :computer: from Ghana</h3>
+<h3 align="center">A full-stack developer :computer: from Ghana</h3>
 
 
-- 👯 Enjoy programming expecially for the web
-
-- 🤝 Am at my best **when I have a good design to follow**
+- Enjoy programming expecially for the web
 
 - 👨‍💻 All of my projects are available at [https://github.com/destinydinam?tab=repositories](https://github.com/destinydinam?tab=repositories)
 
